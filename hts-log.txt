@@ -1,0 +1,12 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 06 Sep 2019 19:29:03 at http://kamleshyadav.com/html/portfolio/white_version_video/index.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://kamleshyadav.com/html/portfolio/white_version_video/index.html -O1 "C:\Dorela\dorela" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+19:34:12	Error: 	"Not Found" (404) at link kamleshyadav.com/html/portfolio/white_version_video/css/owl.video.play.png (from kamleshyadav.com/html/portfolio/white_version_video/css/owl.carousel.min.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 5 minutes 9 seconds : 77 links scanned, 75 files written (7965423 bytes overall) [7424283 bytes received at 24026 bytes/sec], 1022562 bytes transferred using HTTP compression in 20 files, ratio 26%, 7.7 requests per connection
+(1 errors, 0 warnings, 0 messages)
