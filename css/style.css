@@ -663,7 +663,7 @@ input:focus, textarea:focus, select:focus, button:focus {
     vertical-align: middle;
 }
 .prt_about_experience_year h1{
-	font-size:100px;
+	font-size:75px;
 	margin:0px;
 	color:#202020;
     font-weight: 500;
@@ -686,7 +686,7 @@ input:focus, textarea:focus, select:focus, button:focus {
 	padding-left:30px;
 }
 .prt_about_experience_info h4{
-	font-size:18px;
+	font-size:24px;
 	text-transform:capitalize;
 	margin-top:0px;
 }
