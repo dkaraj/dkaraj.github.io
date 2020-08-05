@@ -1158,6 +1158,7 @@ input:focus, textarea:focus, select:focus, button:focus {
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+	opacity:50%;
 }
 #circles-2{
 	background-image:url(../images/content/progress_2.png);
@@ -1165,6 +1166,7 @@ input:focus, textarea:focus, select:focus, button:focus {
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+	opacity:50%;
 }
 #circles-3{
 	background-image:url(../images/content/progress_3.png);
@@ -1172,6 +1174,7 @@ input:focus, textarea:focus, select:focus, button:focus {
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+	opacity:50%;
 }
 #circles-4{
 	background-image:url(../images/content/progress_4.png);
@@ -1179,6 +1182,7 @@ input:focus, textarea:focus, select:focus, button:focus {
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+	opacity:50%;
 }
 .circles-decimals {
 	font-size: .4em;
@@ -1587,3 +1591,7 @@ input:focus, textarea:focus, select:focus, button:focus {
     height: 900px;
 }
 }
+
+
+
+
