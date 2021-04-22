@@ -1566,6 +1566,17 @@ opacity: 1 !important;}
     text-align: center;
     /*margin-top: 10%;*/
 }
+
+.prt_logo_wrapper img {
+    position: fixed;
+    left: 10px;
+    top: 50px;
+    z-index: 2;
+    -webkit-animation: rotate 1.5s linear infinite;
+    -moz-animation: rotate 2s linear infinite;
+    -o-animation: rotate 2s linear infinite;
+    -ms-animation: rotate 2s linear infinite;
+    animation: rotate 1.5s linear infinite;}
 .prt_counter_box {
     padding-left: 0px;
 }
