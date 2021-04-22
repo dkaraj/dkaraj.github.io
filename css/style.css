@@ -277,6 +277,9 @@ input:focus, textarea:focus, select:focus, button:focus {
     width: 100%;
     z-index: 0;	
 }
+video::-webkit-media-controls-panel {
+display: none !important;
+opacity: 1 !important;}
 .prt_home_wrapper h1{
     position: absolute;
     top: 50%;
